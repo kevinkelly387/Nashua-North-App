@@ -1,0 +1,19 @@
+Basics:
+  Parents and Students can quickly get information
+  Screenscraping from nashua.edu
+  Push notifications
+  Calendar
+  Admin can make posts (pictures included)
+  Instagram/new iOS app store style
+
+Short  Term
+  User profiles and logins (x2?)
+  Check grades (just screenscraping)
+  Titan Apparel Store
+  Sports stats and updates
+
+
+Future
+  Split into native iOS and android IDE
+  Social media -esque chatrooms for classes (google classroom?)
+  Minigames

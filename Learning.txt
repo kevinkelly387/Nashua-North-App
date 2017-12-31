@@ -1,3 +1,14 @@
-USE THIS LINK:
+After everything is installed:
 
+USE THIS LINK:
 http://www.reactnativeexpress.com/
+
+
+GIT STUFF (in case you forget [i did])
+1. "git pull" very important bc you can update yourself on everything
+2. "git commit" commits your changes to the local git repository
+          adding "-m "your comment"" will add a comment to your change
+3. finally "git push" updates the repository
+
+ "git rm the.file" to remove files
+"git add the.file" if you have added a file to the folder
