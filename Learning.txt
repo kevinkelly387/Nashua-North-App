@@ -12,3 +12,7 @@ GIT STUFF (in case you forget [i did])
 
  "git rm the.file" to remove files
 "git add the.file" if you have added a file to the folder
+
+
+Libraries:
+Yarn
